@@ -28,7 +28,39 @@ A Amora analisa automaticamente o texto digitado em campos de texto e exibe um �
 | Analisando | Verificando o texto com a API |
 | Correto | Nenhum erro encontrado ou texto já corrigido |
 
+## 🛠️ Tecnologias
+
+- HTML, CSS, JavaScript
+- Chrome Extensions API (Manifest V3)
+- [LanguageTool API](https://languagetool.org) — análise ortográfica em português
+
+---
+
+## 🚀 Como instalar localmente
+
+1. Clone o repositório
+2. Abra o Chrome e acesse `chrome://extensions/`
+3. Ative o **Modo do desenvolvedor**
+4. Clique em **Carregar sem compactação**
+5. Selecione a pasta do projeto
+
+---
+
+## 📌 Versões
+
+| Versão | Descrição |
+|---|---|
+| 0.1.0 | Desenvolvimento inicial com LanguageTool API |
+| 1.0.0 | Primeira versão pública |
+| 2.0.0 | API própria em Java + MySQL |
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença disponível no arquivo [LICENSE](LICENSE).
+
+---
+
 ## 🧑‍🎓 Autor
 Guilherme Silva
-
-## 🖥️ Versão 0.1.0
